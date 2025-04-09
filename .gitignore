@@ -1,0 +1,43 @@
+# ========== UNITY ==========
+
+[Libraries]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# ========== USER SETTINGS ==========
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ========== OS-SPECIFIC FILES ==========
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# ========== VISUAL STUDIO CODE ==========
+.vscode/
+
+# ========== UNITY CRASH REPORTS ==========
+sysinfo.txt
+
+# ========== META FILES NO NECESARIOS ==========
+*.pidb.meta
+*.pdb.meta
